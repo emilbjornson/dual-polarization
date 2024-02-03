@@ -4,7 +4,7 @@
 Massive MIMO with Dual-Polarized Antennas
 ==================
 
-This is a code package is related to the follow scientific article:
+This code package is related to the following scientific article:
 
 Özgecan Özdogan and Emil Björnson, "[Massive MIMO with Dual-Polarized Antennas](https://arxiv.org/pdf/2202.10084.pdf)," IEEE Transactions on Wireless Communications, vol. 22, no. 2, pp. 1448-1463, February 2023, doi: 10.1109/TWC.2022.3205471.
 
